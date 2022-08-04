@@ -10,7 +10,9 @@ I am a self taught developer and a Mechanical engineering undergraduate, i have 
 * ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
 * 🧠  I'm learning Data structures and algorithms
 * 🤝  I'm open to collaborating on Open source communites
-* ⚡  I love to learn new things and like to trek and travel a lot.
+* ⚡  I am passionate about learning new things and constantly gain knowledge.
+* ⚡  More of a camping and trekking person than a partying person.
+
 
 ### Skills
 
