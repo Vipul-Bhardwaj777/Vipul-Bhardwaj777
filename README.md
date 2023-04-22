@@ -1,14 +1,14 @@
 Hi 👋 My name is Vipul Bhardwaj
 ===============================
 
-Aspiring blockchain devloper
+Aspiring frontend devloper
 ----------------------------
 
-I am a self taught developer and a Mechanical engineering undergraduate, i have just started my coding journey few months back .
+I am a self taught developer and a Mechanical engineer, i have just started my coding journey few months back .
 
 * 🌍  I'm based in Himachal Pradesh, India
 * ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
-* 🧠  I'm learning Data structures and algorithms
+* 🧠  I'm learning Wev development
 * 🤝  I'm open to collaborating on Open source communites
 * ⚡  I am passionate about learning new things and constantly gain knowledge.
 * ⚡  More of a camping and trekking person than a partying person.
