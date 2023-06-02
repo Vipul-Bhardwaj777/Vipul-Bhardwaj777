@@ -1,4 +1,4 @@
-Hi 👋 My name is Vipul Bhardwaj
+Hi! 👋 My name is Vipul Bhardwaj
 ===============================
 
 Frontend devloper
