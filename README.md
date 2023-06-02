@@ -1,12 +1,12 @@
 Hi 👋 My name is Vipul Bhardwaj
 ===============================
 
-Aspiring frontend devloper
+Frontend devloper
 ----------------------------
 
-I am a self taught developer and a Mechanical engineer, i have just started my coding journey few months back .
+I am a self taught Developer and a Mechanical engineer.
 
-* 🌍  I'm based in Himachal Pradesh, India
+* 🌍  I'm based in Himachal Pradesh, Bharat (India)
 * ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
 * 🧠  I'm learning Wev development
 * 🤝  I'm open to collaborating on Open source communites
