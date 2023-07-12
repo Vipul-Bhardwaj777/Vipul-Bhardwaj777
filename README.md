@@ -10,7 +10,7 @@ I am a self-taught Developer and a Mechanical engineer.
 *   ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
 *   🧠  I'm learning Frontend Development
 *   🤝  I'm open to collaborating on Open source communities
-*   ⚡  I love to learn new things and like to trek and travel a lot.### Skills 
+*   ⚡  I love to learn new technologies and like to trek and travel a lot.### Skills 
 
 
 ### Skills
