@@ -4,7 +4,7 @@ Hi 👋 My name is Vipul Bhardwaj
 Frontend developer
 ------------------
 
-I am a self-taught Developer and a Mechanical engineer.
+I am a Frontend Developer and a Mechanical engineer.
 
 *   🌍  I'm based in Himachal Pradesh, Bharat (India)
 *   ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
