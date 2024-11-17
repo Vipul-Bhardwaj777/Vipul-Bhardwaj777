@@ -1,14 +1,14 @@
 Hi 👋 My name is Vipul Bhardwaj
 ======================================================================================================================================
 
-Frontend developer
+React Native developer
 ------------------
 
-I am a Frontend Developer and a Mechanical engineer.
+I am a React Native Developer.
 
 *   🌍  I'm based in Himachal Pradesh, Bharat (India)
 *   ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
-*   🧠  I'm learning Frontend Development
+*   🧠  I thrive on transforming design concepts into responsive, interactive mobile applications.
 *   🤝  I'm open to collaborating on Open source communities
 *   ⚡  I love to learn new technologies and like to trek and travel a lot.
 
