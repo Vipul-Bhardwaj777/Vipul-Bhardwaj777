@@ -4,13 +4,15 @@ Hi 👋 My name is Vipul Bhardwaj
 React Native developer
 ------------------
 
-I am a React Native Developer.
+I specialize in building scalable, cross-platform mobile applications using React Native. With 1+ year of experience, I've worked across multiple domains like logistics, healthcare, and mobility.
+
 
 *   🌍  I'm based in Himachal Pradesh, Bharat (India)
 *   ✉️  You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
 *   🧠  I thrive on transforming design concepts into responsive, interactive mobile applications.
 *   🤝  I'm open to collaborating on Open source communities
 *   ⚡  I love to learn new technologies and like to trek and travel a lot.
+*   📄  [View My Resume (Google Drive)]([https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/1CalvDXooYfjWMIGRwo3zXgY70Mpn0zHO/view?usp=sharing))
 
 
 ### Skills
