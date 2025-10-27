@@ -12,7 +12,7 @@ I specialize in building scalable, cross-platform mobile applications using Reac
 *   🧠  I thrive on transforming design concepts into responsive, interactive mobile applications.
 *   🤝  I'm open to collaborating on Open source communities
 *   ⚡  I love to learn new technologies and like to trek and travel a lot.
-*   📄   [View My Resume](https://drive.google.com/file/d/1jxObvMM9bW6A4xoAZvLwjOL6-amHPDEG/view?usp=sharing)
+*   📄   [View My Resume](https://drive.google.com/file/d/1XEPMvWajWN-aLlQkdk3u_5zbRvxqQjaX/view?usp=drive_link)
 
 
 ### Skills
