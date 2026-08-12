@@ -1,17 +1,15 @@
 # Hi 👋 My name is Vipul Bhardwaj
-
-React Native Developer • AI Application Developer
-
+React Native Developer • GenAI Developer
 ---
 
-I'm a React Native developer with **2.6+ years of experience** building production mobile applications across logistics, ride-sharing, and influencer platforms. Alongside mobile development, I build AI applications using LLMs, LangChain, LangGraph, OpenAI Agents SDK, and FastAPI, with a focus on agentic workflows, tool calling, and multimodal AI.
+I'm a React Native developer with **2.7+ years of experience** building production mobile applications across logistics, ride-sharing, and influencer platforms. Alongside mobile development, I build AI applications using LLMs, LangChain, OpenAI Agents SDK, and FastAPI, with a focus on agentic workflows, tool calling, and multimodal AI.
 
 * 🌍 I'm based in Chandigarh, Bharat (India)
 * ✉️ You can contact me at [vipulbhardwaj785@gmail.com](mailto:vipulbhardwaj785@gmail.com)
 * 🤖 Currently building LLM agents, voice-first AI applications, and multimodal experiences.
 * 🤝 Open to collaborating on React Native, AI, and open-source projects.
 * ⚡ Outside of coding, I enjoy trekking, travelling, and exploring new technologies.
-* 📄 [View My Resume](https://drive.google.com/file/d/15UdX4bOVKYMARf0UGi2sH4p-oteYkpF4/view?usp=drive_link)
+* 📄 [View My Resume](https://drive.google.com/file/d/1wXS35W6Ki-dJdXefT-XxjtzbURcwKp_V/view?usp=drive_link)
 
 ### Skills
 
@@ -24,12 +22,14 @@ I'm a React Native developer with **2.6+ years of experience** building producti
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/fastapi" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" width="36" height="36" alt="LangChain" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
 ### Featured Projects
 
-* 🎙️ **Nova** — Voice-first coding assistant built with the OpenAI Agents SDK, tool calling, guardrails, and SQLite-backed memory.
+* 🎙️ **Nova** — Voice-first coding assistant built with the OpenAI Agents SDK, tool calling, guardrails, and a 19-case eval suite.
+* 🥗 **Nutrition RAG** — Grounded retrieval API over the USDA Dietary Guidelines, with a decoupled FastAPI + RQ + Valkey job queue.
 * 🍽️ **FoodLens** — AI meal nutrition analyzer using GPT-4o Vision, OpenAI Structured Outputs, FastAPI, and React Native.
 
 ### Socials
@@ -38,4 +38,3 @@ I'm a React Native developer with **2.6+ years of experience** building producti
 <a href="https://www.github.com/Vipul-Bhardwaj777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/vipul-bhardwaj-444888207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
