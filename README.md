@@ -9,7 +9,7 @@ I'm a React Native developer with **2.7+ years of experience** building producti
 * 🤖 Currently building LLM agents, voice-first AI applications, and multimodal experiences.
 * 🤝 Open to collaborating on React Native, AI, and open-source projects.
 * ⚡ Outside of coding, I enjoy trekking, travelling, and exploring new technologies.
-* 📄 [View My Resume](https://drive.google.com/file/d/1IRHcsCpFZlN59a3mehF4ihqNXyyMz5po/view?usp=drive_link)
+* 📄 [View My Resume](https://drive.google.com/file/d/1LMUTmOzrjV5KR7s2KV9NRVU9qzr9EHhY/view?usp=drive_link)
 
 ### Skills
 
